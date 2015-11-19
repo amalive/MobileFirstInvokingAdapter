@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InvokeAdapterProcedure</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonConnect">Connect</string>
+    <string name="buttonInvoke">Invoke Procedure</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_android_native_app">AndroidNativeApp</string>
+</resources>
